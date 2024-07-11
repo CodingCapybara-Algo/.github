@@ -1,3 +1,3 @@
-# 코딩하는 카피바라
-
-<img src="https://github.com/CodingCapybara-Algo/readMe/blob/main/image/codingcapybara.png">
+<div align="center">
+  <img src="https://github.com/CodingCapybara-Algo/.github/blob/main/image/CapyBara.gif?raw=true">
+</div>
